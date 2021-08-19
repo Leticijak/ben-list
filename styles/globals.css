@@ -43,3 +43,19 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.not-found {
+  text-align: center;
+}
